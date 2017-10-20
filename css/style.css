@@ -238,15 +238,13 @@ i.fa-commenting{
 	display:display-block;
 	float: 0px;
 	padding-left: 10px;
-	-moz-border-radius: 15px;
-	-webkit-border-radius: 15px;
 }
 
 #img_cheat_sheet > img{
     vertical-align:top;
     -webkit-border-radius:2em;
     width: 35%;
-	}
+}
 
 #img_learning_to_code{
   margin-top: 70px;
@@ -256,8 +254,6 @@ i.fa-commenting{
   display:display-block;
   float: 0px;
   padding-left: 10px;
-  -moz-border-radius: 15px;
-  -webkit-border-radius: 15px;
 }
 
 #img_learning_to_code > img{
@@ -274,8 +270,7 @@ i.fa-commenting{
   display:display-block;
   float: 0px;
   padding-left: 10px;
-  -moz-border-radius: 15px;
-  -webkit-border-radius: 15px;
+  
 }
 
 #img_jquery > img{
@@ -292,8 +287,7 @@ i.fa-commenting{
   display:display-block;
   float: 0px;
   padding-left: 10px;
-  -moz-border-radius: 15px;
-  -webkit-border-radius: 15px;
+
 }
 
 #img_animation > img{
