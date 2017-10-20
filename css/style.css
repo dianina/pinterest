@@ -1,0 +1,303 @@
+body {
+ 	font-size: 16px;
+    line-height: 1.71429;
+    font-weight: bold;
+    font-family: sans-serif, "Helvetica Neue", 
+				Helvetica, Arial
+}
+
+div {
+	border-style: none; 
+	border-width:0px; 
+	margin:7px; padding:7px; 
+	background-color: none;
+	position: relative;
+	
+}
+
+#logopinterest {
+	margin-top: -10px;
+	margin-left: 2px;
+	position: relative;
+	display:display-inline;
+	float: 0px;
+
+}
+
+span.grey {
+  background: #cccccc;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 1.90em;
+  margin-left: 150px;
+  margin-top: -105px;
+  margin-right: 0px;
+  width: 50em; 
+  size: 10px;
+  float: left;margin-left:150px;
+  color: #7C7979;
+  font-size: 16px;
+  text-indent: 0.99cm;
+  position: absolute;
+  padding-bottom: 1px;
+
+}
+
+i.fa-search{
+	margin-left: 165px;
+	margin-top: -98px;
+	position: absolute;
+}
+
+#all_pins{
+  color: #000;
+  margin-left: 450px;
+  margin-top: -108px;
+  margin-bottom: 30px;
+  width: 50em; 
+  size: 10px;
+  float: left;margin-left:150px;
+  font-size: 16px;
+  text-indent: 17cm;
+  position: absolute;
+  padding-bottom: 13px;
+
+}
+
+#cheat_sheet {
+  background: #756151;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 0.1em;
+  width: 12em; 
+  float: left;margin-left:150px;
+  font-size: 9px;
+  color: #FFFFFF;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+  margin-left: 100px; 
+}
+#tutorial {
+  background: #7C7979;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 0.1em;
+  width: 9em; 
+  float: left;margin-left:150px;
+  font-size: 9px;
+  color: #FFFFFF;
+  position: absolute;
+  padding: 10px;
+  text-indent: 6px;
+  margin-left: 240px;
+}
+#code {
+  background: #957E63;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 0.1em;
+  width: 6em; 
+  float: left;margin-left:150px;
+  font-size: 9px;
+  color: #FFFFFF;
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+  text-indent: 4px;
+  margin-left: 352px;
+}
+#fun {
+  background: #8E6E52;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 0.1em;
+  width: 5em; 
+  float: left;margin-left:150px;
+  font-size: 9px;
+  color: #FFFFFF;
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+  text-indent: 5px;
+  margin-left: 438px;
+}
+
+#programing {
+  background: #95934E;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 0.1em;
+  width: 14em; 
+  float: left;margin-left:150px;
+  font-size: 9px;
+  color: #FFFFFF;
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+  text-indent: 8px;
+  margin-left: 515px;
+}
+
+#projects {
+  background: #827159;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 0.1em;
+  width: 11em; 
+  float: left;margin-left:150px;
+  font-size: 9px;
+  color: #FFFFFF;
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+  text-indent: 10px;
+  margin-left: 672px;
+}
+
+#posts {
+  background: #918784;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 0.1em;
+  width: 8em; 
+  float: left;margin-left:150px;
+  font-size: 9px;
+  color: #FFFFFF;
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+  text-indent: 10px;
+  margin-left: 800px;
+}
+
+#medium {
+  background: #9B7156;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 0.1em;
+  width: 9em; 
+  float: left;margin-left:150px;
+  font-size: 9px;
+  color: #FFFFFF;
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+  text-indent: 6px;
+  margin-left: 901px;
+}
+
+#videos {
+  background: #AF8077;
+  border-radius: 0.5em;
+  font-weight: lighter;
+  line-height: 0.1em;
+  width: 8em; 
+  float: left;margin-left:150px;
+  font-size: 9px;
+  color: #FFFFFF;
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+  text-indent: 6px;
+  margin-left: 1010px;
+}
+
+i.fa-user{
+	margin-left: 990px;
+	margin-top: -98px;
+	position: absolute;
+	
+}
+
+i.fa-bars{
+	margin-left: 1020px;
+	margin-top: -98px;
+	position: absolute;
+
+}
+
+i.fa-commenting{
+  margin-left: 1050px;
+  margin-top: -98px;
+  position: absolute;
+}
+
+#img_cheat_sheet{
+	margin-top: 70px;
+	margin-left: 60px;
+	border-radius: 30em;
+	position:absolute;
+	display:display-block;
+	float: 0px;
+	padding-left: 10px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+}
+
+#img_cheat_sheet > img{
+    vertical-align:top;
+    -webkit-border-radius:2em;
+    width: 35%;
+	}
+
+#img_learning_to_code{
+  margin-top: 70px;
+  margin-left: 330px;
+  border-radius: 30em;
+  position:absolute;
+  display:display-block;
+  float: 0px;
+  padding-left: 10px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+}
+
+#img_learning_to_code > img{
+    vertical-align:top;
+    -webkit-border-radius:2em;
+    width: 35%;
+}
+
+#img_jquery{
+  margin-top: 70px;
+  margin-left: 600px;
+  border-radius: 30em;
+  position:absolute;
+  display:display-block;
+  float: 0px;
+  padding-left: 10px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+}
+
+#img_jquery > img{
+    vertical-align:top;
+    -webkit-border-radius:2em;
+    width: 110%;
+  }
+
+#img_animation{
+  margin-top: 70px;
+  margin-left: 870px;
+  border-radius: 30em;
+  position:absolute;
+  display:display-block;
+  float: 0px;
+  padding-left: 10px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+}
+
+#img_animation > img{
+    vertical-align:top;
+    -webkit-border-radius:2em;
+    width: 67%;
+  }
